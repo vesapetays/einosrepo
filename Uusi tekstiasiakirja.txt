@@ -1,4 +1,6 @@
-No t�ss� t�m� nyt sitten on, ensimm�inen tiedosto.
+No tässä tämä nyt sitten on, ensimmäinen tiedosto.
 
 Eino S. Repo tuli kuuluisaksi poliittisesta linjastaan.
 Yleisradiota nimitettiin silloin Repo-radioksi. 
+
+Tämä siis vaan eräänlaisena selityksenä miksi repositoryn nimi on einosrepo.
