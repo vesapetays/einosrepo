@@ -1,2 +1,3 @@
 # einosrepo
 School project, mandatory ...
+Updated from Raspberry Pi sort-of Linux
