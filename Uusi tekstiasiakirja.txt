@@ -4,3 +4,17 @@ Eino S. Repo tuli kuuluisaksi poliittisesta linjastaan.
 Yleisradiota nimitettiin silloin Repo-radioksi. 
 
 Tämä siis vaan eräänlaisena selityksenä miksi repositoryn nimi on einosrepo.
+
+---
+
+Lisäilenpä kokeilmielessä tähän alunperin Windowsissa luotuun 
+tiedostoon tekstiä.
+
+Tämä lisäys on kirjoitettu Raspberry Pi:n nano-editorilla.
+Aion päivittää tämän GitHub:iin lyhyen kaavan mukaan.
+
+git commit -am "jatkettu duunia"
+git push
+
+Hiukan kiusallista että tiedostonimessä on välilyönti, mutta 
+lainausmerkit tiedostonimen ympärillä auttanevat.
