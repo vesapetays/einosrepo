@@ -1,0 +1,10 @@
+Tiedoston päivitys GitHubiin pitkän kaavan mukaan komentoikkunassa
+
+git config --global user.name "VesaPetays"
+git config --global user.email "vesa.petays@student.tut.fi"
+
+git add notes.txt
+git commit -am “notes lisatty”
+git push
+
+
